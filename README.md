@@ -16,5 +16,5 @@ This data analyzes campaigns that seek to promote various artistic creations/pro
 ---
 [data-1-1-3-StarterBook](https://github.com/tylerwe19/kickstarter_analysis_evans/blob/main/data-1-1-3-StarterBook.xlsx)
 ---
-*After reviewing this brief analysis, you can see that a majority of failed campaigns set too high of goals, which may intimidated people in charge of the campaign causing them to perform poorly as they attained very few pledges.
+*After reviewing this brief analysis, you can see that a majority of failed campaigns set too high of goals, which may intimidate people in charge of the campaign causing them to perform poorly as they attained very few pledges.
 ---
